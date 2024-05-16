@@ -1,0 +1,16 @@
+.img{
+    margin: 10px;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+  
+}
+.navbar{
+    /* display: block; */
+}
+.nav1{
+    height: 15vh;
+    background-color: #003441;
+    display: flex;
+    text-align: center;
+}
